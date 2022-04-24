@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="11_shared_lock_01.cpp">
+    <ClCompile Include="14_condition_variable_03.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
